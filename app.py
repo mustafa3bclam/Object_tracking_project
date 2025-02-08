@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import streamlit as st
+import streamlit as st # type: ignore
 import tempfile
 import time
 
