@@ -1,4 +1,5 @@
 # Object Tracking Project
+![real_time_object_detection](https://github.com/user-attachments/assets/b4333505-3169-4205-94c3-6283a74d87b5)
 
 This project demonstrates object tracking using OpenCV and Streamlit. It allows users to upload a video file and detects moving objects in the video using background subtraction.
 
